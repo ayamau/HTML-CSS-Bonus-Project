@@ -1,0 +1,60 @@
+body {
+font-family: "Roboto", sans-serif;
+}
+
+/*GRID*/
+
+.full-width {
+  width: 1200px;
+  margin: auto 0;
+
+}
+
+.half-width {
+  width: 600px;
+  float: left;
+
+  }
+
+.third-width {
+  width: 400px;
+  float: left;
+}
+
+/*HEADER and NAV SECTION*/
+
+header span {
+  color: #00b300;
+}
+nav {
+
+  float: right;
+
+
+}
+
+nav ul li {
+
+  display: inline-block;
+  list-style: none;
+
+}
+
+h2 {
+  color: #00b300;
+
+}
+
+footer {
+  clear: both;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+footer span {
+  color: #00b300;
+  font-style: italic;
+}
